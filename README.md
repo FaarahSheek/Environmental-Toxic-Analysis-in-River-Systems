@@ -1,25 +1,24 @@
 # Environmental Toxic Analysis in River Systems
-#EnvironmentalDataAnalysis #WaterQuality #RiverPollution #DataScience #Python #Sustainability
 
 ## Description
 
 This project analyzes toxin concentrations across five major global river systems (Yangtze, Nile, Mississippi, Danube, and Amazon) over a five-year period from 2018 to 2023.  
 Using exploratory data analysis, statistical testing, and visualization techniques, the project evaluates pollution patterns, compares toxin levels across rivers, and investigates relationships between water chemistry variables such as pH and heavy metals.
 
----
+
 
 ## Motivation
 
 The motivation behind this project was to gain hands-on experience analyzing real-world environmental data and to better understand how industrialization, population density, and geography influence water quality in major river systems.
 
----
+
 
 ## Why this project was built
 
 This project was built to explore how toxin concentrations vary across different rivers and over time, and to practice applying data analysis techniques to environmental monitoring data.  
 It also aims to demonstrate how data-driven insights can inform environmental protection strategies and policy recommendations.
 
----
+
 
 ## Problem it solves
 
@@ -29,7 +28,7 @@ The project helps transform raw environmental monitoring data into actionable in
 - Analyzing trends in pollution over time
 - Examining relationships between pH levels and toxic substances
 
----
+
 
 ## What I learned
 
@@ -40,7 +39,7 @@ Through this project, I learned how to:
 - Apply statistical methods such as correlation analysis, t-tests, and linear regression
 - Interpret analytical results from an environmental and scientific perspective
 
----
+
 
 ## Overview
 
@@ -57,7 +56,7 @@ This project examines multiple water quality indicators, including:
 
 The analysis focuses on comparing pollution levels across river systems and assessing how these variables change over time.
 
----
+
 
 ## Commonly asked questions
 
@@ -66,21 +65,21 @@ The analysis focuses on comparing pollution levels across river systems and asse
 The Yangtze River consistently shows the highest average concentrations of lead, mercury, and arsenic.  
 This is likely due to its flow through densely populated and heavily industrialized regions.
 
----
+
 
 ### 2. Do toxin levels increase over time?
 
 No significant long-term increase is observed between 2018 and 2023.  
 Although short-term fluctuations occur, overall toxin levels remain relatively stable over the five-year period.
 
----
+
 
 ### 3. Is there a relationship between pH levels and toxin concentration?
 
 A weak positive correlation exists between pH levels and lead concentration, while mercury and arsenic show very weak correlations.  
 This suggests that pH has limited influence on toxin levels in these rivers.
 
----
+
 
 ### 4. How can this project be improved?
 
@@ -91,7 +90,7 @@ Possible improvements include:
 - Using geospatial visualization techniques
 - Developing predictive models for future toxin levels
 
----
+
 
 ## Project Structure
 
@@ -104,7 +103,7 @@ Possible improvements include:
 - **README.md:**  
   Project documentation and overview.
 
----
+
 
 ## Key Steps
 
@@ -125,7 +124,7 @@ Possible improvements include:
    - T-test comparing lead levels between the Amazon and Danube rivers  
    - Linear regression to model lead concentration based on pH levels  
 
----
+
 
 ## Results
 
@@ -134,7 +133,7 @@ Possible improvements include:
 - No significant long-term increase in toxin levels is observed  
 - Statistical testing confirms meaningful differences in pollution between certain rivers  
 
----
+
 
 ## Recommendations
 
@@ -143,11 +142,4 @@ Possible improvements include:
 - Preserve ecosystems around low-pollution rivers such as the Amazon  
 - Maintain regular monitoring and international cooperation for river health  
 
----
 
-## Tags / Keywords
-
-#EnvironmentalScience #EnvironmentalMonitoring #WaterQualityAnalysis  
-#ExploratoryDataAnalysis #DataVisualization #StatisticalAnalysis  
-#TimeSeriesAnalysis #PollutionMonitoring #Sustainability  
-#Python #Pandas #Seaborn #Matplotlib #PortfolioProject
